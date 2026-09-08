@@ -1,0 +1,77 @@
+This folder will cover up
+
+1. Basic Assignments and Variable Handling
+
+Simple Assignment: Assigning values to variables directly.
+Multiple Assignment: Assigning multiple variables in a single line.
+Chained Assignment: Assigning the same value to multiple variables simultaneously.
+Unpacking Assignments: Assigning values from iterables like tuples and lists to variables.
+Swapping Values: Swapping the values of two variables in Python.
+
+
+2. Working with Data Structures
+
+List, Dictionary, and Set Assignments:
+Assigning values in lists, dictionaries, and sets.
+Modifying list, dictionary, and set values.
+List Comprehensions: Creating new lists by applying operations or filters to existing lists.
+
+
+3. Control Flow and Conditional Logic
+
+if-else Expressions: Ternary conditional operators (x if condition else y).
+Using match-case for Pattern Matching: Using the new match statement (Python 3.10+) for conditional logic.
+
+
+4. Lambda Functions
+
+Lambda Functions: Using anonymous functions with lambda for simple operations.
+Lambda with Default Arguments: Setting default values for lambda function parameters.
+
+
+5. Higher-Order Functions
+
+Map: Using the map() function to apply a function to each item in a sequence.
+Filter: Using filter() with lambda to filter out values based on a condition.
+Zip: Combining multiple iterables into one using zip().
+Enumerate: Using enumerate() to track indices while iterating over a sequence.
+
+
+6. String Handling
+
+String Formatting: Using .format() and f-strings for string interpolation and formatting.
+Escape Sequences: Handling special characters (like newlines, tabs) in strings using escape sequences (\n, \\, etc.).
+Raw Strings: Using r"" for strings where escape sequences are not processed.
+
+
+7. Functions and Function Arguments
+
+Function Definition: Writing simple functions with parameters and return values.
+Variable-Length Arguments: Using *args and **kwargs to pass a variable number of arguments to functions.
+Keyword-Only Arguments: Enforcing keyword-only arguments after a * in function definitions.
+Unpacking Function Arguments: Using *args and **kwargs for unpacking tuples and dictionaries in function calls.
+
+
+8. Scope
+
+Local Scope: Variables defined inside a function and accessible only within it.
+Global Scope: Variables defined outside any function and accessible throughout the program.
+Nonlocal Scope: Modifying variables from the nearest enclosing scope using the nonlocal keyword.
+
+
+9. Iterators and Generators
+
+Generators: Using yield to create generators that produce values on-the-fly.
+Generator Expressions: Using list comprehensions or generator expressions for more efficient memory usage.
+
+
+10. Unpacking
+
+List Unpacking: Assigning elements of a list or tuple to individual variables.
+Unpacking with Asterisk (*): Unpacking values into a list, capturing the middle elements, or merging collections using *.
+
+
+11. Other Concepts
+
+Type Annotations: Annotating the expected types of variables and function parameters/returns using Python type hints.
+The center() Method: Center-aligning strings within a specified width using the center() method.
